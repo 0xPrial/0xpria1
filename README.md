@@ -1,1 +1,1 @@
-# subdomain takeover POC by Prial261
+# 0xPrial Is Just Testing :D
